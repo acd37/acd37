@@ -4,7 +4,7 @@
 
 <p><b>See how busy I've been:</b></p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=acd37&show_icons=true&show_icons=true" alt="Danny Koppenhagens Github Stats"></img>
+![Alec Down's GitHub stats](https://github-readme-stats.vercel.app/api?username=acd37&show_icons=true&show_icons=true)
 
 🔭 I’m currently working on some hobby projects. 
 
